@@ -15,9 +15,6 @@ for (let item of formItems) {
   item.addEventListener('focusout', () => {
     checkInputs(item)
   })
-  item.addEventListener('blur', () => {
-    checkInputs(item)
-  })
 }
 
 function checkInputs(item) {
