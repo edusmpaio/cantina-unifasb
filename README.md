@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Imagem preview do projeto" src="./images/project-preview" width="100%">
+  <img alt="Imagem preview do projeto" src="./images/project-preview.png" width="100%">
 </p>
 
 <br>
